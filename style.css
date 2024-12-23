@@ -1,0 +1,35 @@
+
+
+
+
+.roboto-mono-font {
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
+  html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .button{
+    font-size: 20px;
+    padding: 20px;
+    margin: 0 8px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .row{
+    margin:   8px 0;
+  }
+  
+  .row input{
+    font-size: 23px ;
+    margin: 0;
+    padding: 12px 0;
+    border: 2px solid black;
+    border-radius: 8px ;
+  }
+  
